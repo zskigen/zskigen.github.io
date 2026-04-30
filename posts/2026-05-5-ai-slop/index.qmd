@@ -1,0 +1,5 @@
+# my author info ----
+author:
+  - name: Z Skigen
+    url: https://zkigen.github.io/
+    orcid: 0000-0002-5300-3075

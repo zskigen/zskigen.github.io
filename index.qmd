@@ -28,4 +28,3 @@ I am a statistician, baseball analyst, and data scientist with a passion for tur
 
 [Learn more about me →](/about){.about-links .subtitle}
 :::
-
