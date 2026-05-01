@@ -8,10 +8,3 @@ freeze: auto
 # enable banner style title blocks ----
 title-block-banner: true
 
-# my author info ----
-author:
-  - name: Samantha Shanny-Csik
-    url: zskigen.github.io/
-    orcid: 0000-0002-5300-3075
-    affiliation: Master of Environmental Data Science Program @ The Bren School (UCSB) 
-    affiliation-url: https://ucsb-meds.github.io/ 

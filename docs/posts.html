@@ -80,9 +80,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -177,7 +177,7 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QUklMjBJbWFnZXM=">AI Images <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QUklMjBTbG9w">AI Slop <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TmV1cm9zY2llbmNl">Neuroscience <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -206,20 +206,34 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1777431934803" data-listing-reading-time-sort="1" data-listing-word-count-sort="16">
+<div class="g-col-1" data-index="0" data-categories="QUklMjBJbWFnZXMlMkNBSSUyMFNsb3AlMkNOZXVyb3NjaWVuY2U=" data-listing-date-sort="1777964400000" data-listing-file-modified-sort="1777594815073" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="182">
 <a href="./posts/2026-05-5-ai-slop/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<p class="card-img-top">
+<img loading="lazy" src="./posts/2026-05-5-ai-slop/man.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-my author info —-
+Why does AI Slop Make You So Angry?
 </h5>
-<div class="card-text listing-description delink">
-author: - name: Z Skigen url: https://zkigen.github.io/ orcid: 0000-0002-5300-3075
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('QUklMjBJbWFnZXM='); return false;">AI Images</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('QUklMjBTbG9w'); return false;">AI Slop</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmV1cm9zY2llbmNl'); return false;">Neuroscience</div>
+
 </div>
-<div class="card-attribution card-text-small start">
+<div class="card-text listing-description delink">
+<p>A Cogntitive and Neurological Perspective</p>
+</div>
+<div class="card-attribution card-text-small justify">
 <div class="listing-author">
-Samantha Shanny-Csik
+Z Skigen, Jazelle Saligumba
+</div>
+<div class="listing-date">
+May 5, 2026
 </div>
 </div>
 </div>

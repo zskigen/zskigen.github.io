@@ -1,5 +1,48 @@
-# my author info ----
+---
+title: "Why does AI Slop Make You So Angry?"
+description: "A Cogntitive and Neurological Perspective"
+bibliography: references.bib
 author:
-  - name: Z Skigen
-    url: https://zkigen.github.io/
-    orcid: 0000-0002-5300-3075
+  - name: Z Skigen, Jazelle Saligumba
+    affiliation: Neuroscience @ Pomona College
+    affiliation-url: https://www.pomona.edu/academics/departments/neuroscience
+date: 05-05-2026
+categories: [AI Images, AI Slop, Neuroscience]
+citation:
+  url: https://zskigen.github.io/posts/2026-05-05-ai-slop/
+image: man.png
+draft: false
+---
+
+Ah. Another morning where, against my better judgement, I check my phone, open Instagram, and encounter a meme, or some sort of image. Whatever it is, it is almost certain I encounter something artificially generated; usually usually *piss filtered*[^1], cartoonish, yet imprecise imagery.
+
+[^1]: (artificial intelligence, slang) A usually undesired yellow tint commonly appearing in images produced by generative AI. [@wiktionary_piss_filter]
+
+As I created this project, I wanted to ground my research in an almost indescribable feeling that never fails to beholden me every time I encounter an AI image. Words to describe such a feeling include: rage, discomfort, annoyance, and the main focus of this essay, a feeling of uncanny valley. This follows mori (1970) in response to robots, i believe AI has a similar effect. I wondered if anyone else shared a similar experience, and Reddit threads confirm
+
+### Case Studies
+
+![man](man.png){width=300}
+
+![storefront](storefront.png){width=300}
+
+![bar](bar.png){width=300}
+
+![picaxe](picaxe.png){width=300}
+
+### Fluency Theory and Predictive Processing
+
+neuroscience stuff with all my citations
+
+### Benjamin and Aura
+
+make it philosophical
+
+### Why do people like AI art at all?
+
+propose the question of why people even like ai at all, people enjoy the art sometimes, facebook, ai comment bots, 
+
+### Conclusion
+
+idk
+
