@@ -1,1 +1,10 @@
-my projects here. thesis and capstone. baseball
+---
+title: "Projects"
+listing:
+  contents: projects
+  type: grid
+  sort: "date desc"
+  categories: true
+  fields: [title, description, date, categories]
+page-layout: full
+---

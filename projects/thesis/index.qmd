@@ -1,0 +1,8 @@
+---
+title: "Thesis"
+description: "hi"
+date: 2025-05-01
+categories: [Python, PostgreSQL, Baseball]
+---
+
+Write about the project here...

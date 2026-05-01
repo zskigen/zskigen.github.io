@@ -4,5 +4,15 @@
     "items": [
       "/posts/2026-05-5-ai-slop/index.html"
     ]
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": []
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/thesis/index.html"
+    ]
   }
 ]

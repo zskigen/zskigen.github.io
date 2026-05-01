@@ -18,17 +18,17 @@ Ah. Another morning where, against my better judgement, I check my phone, open I
 
 [^1]: (artificial intelligence, slang) A usually undesired yellow tint commonly appearing in images produced by generative AI. [@wiktionary_piss_filter]
 
-As I created this project, I wanted to ground my research in an almost indescribable feeling that never fails to beholden me every time I encounter an AI image. Words to describe such a feeling include: rage, discomfort, annoyance, and the main focus of this essay, a feeling of uncanny valley. This follows mori (1970) in response to robots, i believe AI has a similar effect. I wondered if anyone else shared a similar experience, and Reddit threads confirm
+As I created this project, I wanted to ground my research in an almost indescribable feeling that never fails to beholden me every time I encounter an AI image. Words to describe such a feeling include: rage, discomfort, annoyance, and the main focus of this essay, a feeling of uncanny valley. This follows Mori's [@mori1970] in response to robots, i believe AI has a similar effect. I wondered if anyone else shared a similar experience, and Reddit threads confirm I am not alone [@ai_soulless]
 
 ### Case Studies
 
-![man](man.png){width=300}
+![man](man.png){width="300"}
 
-![storefront](storefront.png){width=300}
+![storefront](storefront.png){width="300"}
 
-![bar](bar.png){width=300}
+![bar](bar.png){width="300"}
 
-![picaxe](picaxe.png){width=300}
+![picaxe](picaxe.png){width="300"}
 
 ### Fluency Theory and Predictive Processing
 
@@ -40,9 +40,8 @@ make it philosophical
 
 ### Why do people like AI art at all?
 
-propose the question of why people even like ai at all, people enjoy the art sometimes, facebook, ai comment bots, 
+propose the question of why people even like ai at all, people enjoy the art sometimes, facebook, ai comment bots,
 
 ### Conclusion
 
 idk
-

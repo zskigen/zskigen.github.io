@@ -2,8 +2,6 @@
 title: "Z Skigen"
 pagetitle: "ZS"
 subtitle: "Statistics & Data Science at Pomona College"
-image: images/z_phillies_glasses.jpeg
-image-alt: "Z Skigen at a Philadelphia Phillies press conference"
 about:
   template: solana
   image-width: 28em
@@ -24,7 +22,7 @@ page-layout: full
 <br><br>
 
 ::: {#hero-heading}
-I am a statistician, baseball analyst, and data scientist with a passion for turning complex problems into actionable insight. My **research** applies Bayesian causal inference to questions of transportability — asking when and how findings from one population can inform another. My **baseball** work spans player evaluation, ABS challenge modeling, and building data infrastructure for front offices and college programs alike.
+Hi! My name is Z. I am a graduating senior at Pomona College and an incoming master's student in Statistics and Data Science at UC Berkeley. I have experience conducting research with Major League Baseball teams, causal inference research, and applied modeling.
 
 [Learn more about me →](/about){.about-links .subtitle}
 :::

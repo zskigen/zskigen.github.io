@@ -11,14 +11,14 @@
     "href": "index.html",
     "title": "Z Skigen",
     "section": "",
-    "text": "I am a statistician, baseball analyst, and data scientist with a passion for turning complex problems into actionable insight. My research applies Bayesian causal inference to questions of transportability — asking when and how findings from one population can inform another. My baseball work spans player evaluation, ABS challenge modeling, and building data infrastructure for front offices and college programs alike.\nLearn more about me →"
+    "text": "Hi! My name is Z. I am a graduating senior at Pomona College and an incoming master’s student in Statistics and Data Science at UC Berkeley. I have experience conducting research with Major League Baseball teams, causal inference research, and applied modeling.\nLearn more about me →"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "ZS",
+    "title": "Projects",
     "section": "",
-    "text": "my projects here. thesis and capstone. baseball"
+    "text": "Thesis\n\n\n\nPython\n\nPostgreSQL\n\nBaseball\n\n\n\nhi\n\n\n\nMay 1, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -30,7 +30,7 @@
   {
     "objectID": "posts.html",
     "href": "posts.html",
-    "title": "My Blog",
+    "title": "Blog",
     "section": "",
     "text": "Why does AI Slop Make You So Angry?\n\n\n\nAI Images\n\nAI Slop\n\nNeuroscience\n\n\n\nA Cogntitive and Neurological Perspective\n\n\n\nZ Skigen, Jazelle Saligumba\n\n\nMay 5, 2026\n\n\n\n\n\n\nNo matching items"
   },
@@ -39,7 +39,7 @@
     "href": "posts/2026-05-5-ai-slop/index.html",
     "title": "Why does AI Slop Make You So Angry?",
     "section": "",
-    "text": "Ah. Another morning where, against my better judgement, I check my phone, open Instagram, and encounter a meme, or some sort of image. Whatever it is, it is almost certain I encounter something artificially generated; usually usually piss filtered1, cartoonish, yet imprecise imagery.\nAs I created this project, I wanted to ground my research in an almost indescribable feeling that never fails to beholden me every time I encounter an AI image. Words to describe such a feeling include: rage, discomfort, annoyance, and the main focus of this essay, a feeling of uncanny valley. This follows mori (1970) in response to robots, i believe AI has a similar effect. I wondered if anyone else shared a similar experience, and Reddit threads confirm"
+    "text": "Ah. Another morning where, against my better judgement, I check my phone, open Instagram, and encounter a meme, or some sort of image. Whatever it is, it is almost certain I encounter something artificially generated; usually usually piss filtered1, cartoonish, yet imprecise imagery.\nAs I created this project, I wanted to ground my research in an almost indescribable feeling that never fails to beholden me every time I encounter an AI image. Words to describe such a feeling include: rage, discomfort, annoyance, and the main focus of this essay, a feeling of uncanny valley. This follows Mori’s (Mori 1970) in response to robots, i believe AI has a similar effect. I wondered if anyone else shared a similar experience, and Reddit threads confirm I am not alone (Reddit user aiwars 2025)"
   },
   {
     "objectID": "posts/2026-05-5-ai-slop/index.html#footnotes",
@@ -47,5 +47,26 @@
     "title": "Why does AI Slop Make You So Angry?",
     "section": "Footnotes",
     "text": "Footnotes\n\n\n(artificial intelligence, slang) A usually undesired yellow tint commonly appearing in images produced by generative AI. (Wiktionary contributors 2025)↩︎"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "projects.html#projectsindex.qmd",
+    "href": "projects.html#projectsindex.qmd",
+    "title": "Projects",
+    "section": "",
+    "text": "title: “Projects” listing: contents: “*/index.qmd” # one subfolder per project type: grid fields: [title, description, date, categories] —"
+  },
+  {
+    "objectID": "projects/thesis/index.html",
+    "href": "projects/thesis/index.html",
+    "title": "Thesis",
+    "section": "",
+    "text": "Write about the project here…"
   }
 ]
