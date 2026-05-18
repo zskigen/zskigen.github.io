@@ -11,14 +11,14 @@
     "href": "index.html",
     "title": "Z Skigen",
     "section": "",
-    "text": "Hi! My name is Z. I am a graduating senior at Pomona College and an incoming master’s student in Statistics and Data Science at UC Berkeley. I have experience conducting research with Major League Baseball teams, causal inference research, and applied modeling.\nLearn more about me →"
+    "text": "Hi! My name is Z. I’m an incoming master’s student in Statistics and Data Science at UC Berkeley and Mathematics Alum of Pomona College. I have experience conducting research with Major League Baseball teams, causal inference research, and applied modeling.\nLearn more about me →"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Thesis\n\n\n\nPython\n\nPostgreSQL\n\nBaseball\n\n\n\nhi\n\n\n\nMay 1, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "No matching items"
   },
   {
     "objectID": "about.html",
@@ -61,12 +61,5 @@
     "title": "Projects",
     "section": "",
     "text": "title: “Projects” listing: contents: “*/index.qmd” # one subfolder per project type: grid fields: [title, description, date, categories] —"
-  },
-  {
-    "objectID": "projects/thesis/index.html",
-    "href": "projects/thesis/index.html",
-    "title": "Thesis",
-    "section": "",
-    "text": "Write about the project here…"
   }
 ]

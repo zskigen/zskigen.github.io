@@ -1,8 +1,16 @@
 ---
-title: "Thesis"
-description: "hi"
-date: 2025-05-01
-categories: [Python, PostgreSQL, Baseball]
+title: "Inference Without Data: A Causal Transportability Framework for Ketamine Effects in TGD Populations"
+description: "How do you estimate a treatment effect for a population that's never been in a clinical trial? This thesis builds a causal data fusion framework for estimating ketamine's effects on chronic pain and depression in transgender and gender-diverse patients using two published studies that individually can't answer the question. Uses Pearl's transportability theory, a derived anchor constraint, and constrained prior predictive Monte Carlo to characterize transported estimates without access to individual-level data."
+author:
+  - name: Z Skigen
+    affiliation: Pomona College Mathematics and Statistics Department
+    affiliation-url: https://www.pomona.edu/academics/departments/mathematics-statistics
+date: 2026-04-18
+categories: [Causal Inference, Bayesian Inference, Healthcare]
+citation:
+  url: https://zskigen.github.io/projects/thesis/
+image: selectiondiagram.png
+draft: true
 ---
 
 Write about the project here...

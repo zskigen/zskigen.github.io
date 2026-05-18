@@ -106,7 +106,7 @@ This is a different register of wrongness from what Ramachandran and Hirstein, R
 
 ### But Why Do Some People Like AI Images?
 
-If the negative reaction to AI images is neurological, why is it not universal? There are subreddits with tens of thousands of members celebrating AI art. There are markets for it, buyers for it, people who share it enthusiastically and feel nothing of what this essay describes. This deserves an honest answer rather than a dismissal.
+If the negative reaction to AI images is neurological, why is it not universal? There are subreddits with tens of thousands of members celebrating AI art. There are markets for it, buyers for it, people who share it enthusiastically and feel nothing of what this essay describes.
 
 Reber, Schwarz and Winkielman [-@reber2004] offer part of the explanation. Fluency effects are moderated by prior exposure, familiarity with a stimulus style builds processing fluency for that style specifically. People who consume large quantities of AI images develop a kind of literacy for the aesthetic. The piss filter, the hyper-saturated warmth, the uncanny smoothness of AI skin, these become recognizable and therefore easier to process. The mere exposure effect does not make the images neurologically coherent, but it makes them feel more familiar, and familiarity registers as fluency.
 
