@@ -6,7 +6,7 @@ image: "images/zgrad.jpg"
 about:
   template: solana
   image-width: 20em
-  image-shape: rectangle
+  image-shape: round
   id: hero-heading
   links:
     - icon: linkedin
