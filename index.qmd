@@ -2,9 +2,11 @@
 title: "Z Skigen"
 pagetitle: "ZS"
 subtitle: "Statistics & Data Science at Pomona College"
+image: "images/zgrad.jpg"
 about:
   template: solana
-  image-width: 28em
+  image-width: 20em
+  image-shape: rectangle
   id: hero-heading
   links:
     - icon: linkedin
