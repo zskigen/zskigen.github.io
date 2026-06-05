@@ -1,7 +1,3 @@
 ## My quarto website
 
--Projects
-
--CV
-
--About me
+A landing page, about me page, blog, and projects panel
