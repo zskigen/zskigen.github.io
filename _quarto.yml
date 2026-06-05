@@ -5,7 +5,6 @@ project:
 website:
   title: "ZS"
   navbar:
-    logo: assets/zs-logo.svg
     right:
       - text: About
         href: about.qmd

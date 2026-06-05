@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "ZS",
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
     "section": "",
-    "text": "Ah. Another morning where, against my better judgement, I check my phone, open Instagram, and encounter an artificially intelligent image. Piss filtered, cartoonish yet imprecise imagery. As I created this project, I wanted to ground my research in an almost indescribable feeling that never fails to  beholden me. Words to describe such a feeling include: rage, discomfort, annoyance, and the main focus of this essay,"
+    "text": "Why does AI Slop Make You So Angry?\n\n\n\nAI Images\n\nAI Slop\n\nNeuroscience\n\n\n\nA Cogntitive and Neurological Perspective\n\n\n\nZ Skigen, Jazelle Saligumba\n\n\nMay 5, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -12,27 +12,6 @@
     "title": "Z Skigen",
     "section": "",
     "text": "Hi! My name is Z. I’m an incoming master’s student in Statistics and Data Science at UC Berkeley and Mathematics Alum of Pomona College. I have experience conducting research with Major League Baseball teams, causal inference research, and applied modeling.\nLearn more about me →"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "No matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "who am i?/?"
-  },
-  {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Why does AI Slop Make You So Angry?\n\n\n\nAI Images\n\nAI Slop\n\nNeuroscience\n\n\n\nA Cogntitive and Neurological Perspective\n\n\n\nZ Skigen, Jazelle Saligumba\n\n\nMay 5, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/2026-05-5-ai-slop/index.html",
@@ -49,17 +28,38 @@
     "text": "Footnotes\n\n\n(artificial intelligence, slang) A usually undesired yellow tint commonly appearing in images produced by generative AI. (Wiktionary contributors 2025)↩︎"
   },
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
+    "objectID": "projects.html",
+    "href": "projects.html",
     "title": "Projects",
     "section": "",
     "text": "No matching items"
   },
   {
-    "objectID": "projects.html#projectsindex.qmd",
-    "href": "projects.html#projectsindex.qmd",
-    "title": "Projects",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
     "section": "",
-    "text": "title: “Projects” listing: contents: “*/index.qmd” # one subfolder per project type: grid fields: [title, description, date, categories] —"
+    "text": "I’m Z (they/them)! I’ve had a pretty nonlinear math journey, beginning college as a politics major and deciding to major in math later than most.\nThe switch to math was motivated by my goal of working for a Major League Baseball team in a Research & Development role. And"
+  },
+  {
+    "objectID": "about.html#my-statistics-journey",
+    "href": "about.html#my-statistics-journey",
+    "title": "About Me",
+    "section": "",
+    "text": "Like the main page said, I’m Z (they/them). I’ve had a pretty nonlinear math journey, beginning college as a politics major and deciding to major in math later than most.\nThe switch to math was motivated by my goal of working for a Major League Baseball team in a Research & Development"
+  },
+  {
+    "objectID": "about.html#my-background",
+    "href": "about.html#my-background",
+    "title": "About Me",
+    "section": "My Background",
+    "text": "My Background"
+  },
+  {
+    "objectID": "about.html#why-i-love-statistics-and-data-science",
+    "href": "about.html#why-i-love-statistics-and-data-science",
+    "title": "About Me",
+    "section": "Why I love Statistics and Data Science",
+    "text": "Why I love Statistics and Data Science\nI love the versaility and"
   }
 ]
