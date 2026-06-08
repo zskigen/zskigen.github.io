@@ -5,6 +5,7 @@ project:
     - google4b13fe5c076ff8e0.html
 website:
   title: "ZS"
+  site-url: "https://zskigen.github.io"
   navbar:
     right:
       - text: About
