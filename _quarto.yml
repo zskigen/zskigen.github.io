@@ -1,7 +1,8 @@
 project:
   type: website
   output-dir: docs
-
+  resources:
+    - google4b13fe5c076ff8e0.html
 website:
   title: "ZS"
   navbar:
@@ -12,11 +13,9 @@ website:
         href: projects.qmd
       - posts.qmd
       
-
 format:
   html:
     theme:
       light: [united, styles.scss]
     toc: false
-
 editor: visual
